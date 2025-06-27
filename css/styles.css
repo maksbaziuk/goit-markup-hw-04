@@ -259,6 +259,22 @@ img {
   width: calc((100% - 72px) / 4);
 }
 
+.feature-list-item-container {
+  background-color: #f4f4fd;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+  height: 112px;
+  margin-bottom: 8px;
+  display: flex;
+}
+
+.feature-list-item-icon {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .feature-list-text {
   font-size: 16px;
   line-height: 1.5;
