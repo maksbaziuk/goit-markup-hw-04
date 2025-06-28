@@ -450,11 +450,14 @@ img {
   display: flex;
   align-items: baseline;
   margin-right: 120px;
-  gap: 120px;
 }
 
 .footer-logo-container {
   margin-right: 120px;
+}
+
+.footer-social-item {
+  gap: 16px;
 }
 
 .footer-social-text {
