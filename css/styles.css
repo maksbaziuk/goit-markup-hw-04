@@ -446,15 +446,15 @@ img {
   max-width: 264px;
 }
 
-.container-footer {
+.footer-container {
   display: flex;
   align-items: baseline;
   margin-right: 120px;
   gap: 120px;
 }
 
-.footer-social-list {
-  gap: 120px;
+.footer-logo-container {
+  margin-right: 120px;
 }
 
 .footer-social-text {
